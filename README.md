@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/stephairth/advice-generator-app/blob/main/screencapture-file-C-Projects-Study-advice-generator-app-main-index-html-2022-03-15-16_39_38.png)
 
 ### Links
 
